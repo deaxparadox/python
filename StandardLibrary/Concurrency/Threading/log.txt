@@ -1,0 +1,66 @@
+[Thread  9] number not assgined
+[Thread  8] number not assgined
+[Thread  7] number not assgined
+[Thread  6] number not assgined
+[Thread  5] number not assgined
+[Thread  4] number not assgined
+[Thread  3] number not assgined
+[Thread  2] number not assgined
+[Thread  1] number not assgined
+[Thread  0] I am the first thread
+[Thread  0] lock acquired
+Removed item 9
+[Thread  0] lock released
+[Thread  6] waiting for my number
+[Thread  8] waiting for my number
+[Thread  5] waiting for my number
+[Thread  7] waiting for my number
+[Thread  3] waiting for my number
+[Thread  9] waiting for my number
+[Thread  2] waiting for my number
+[Thread  4] waiting for my number
+[Thread  1] lock acquired
+Removed item 8
+[Thread  1] lock released
+[Thread  9] waiting for my number
+[Thread  2] lock acquired
+Removed item 7
+[Thread  2] lock released
+[Thread  6] waiting for my number
+[Thread  5] waiting for my number
+[Thread  4] waiting for my number
+[Thread  3] lock acquired
+Removed item 6
+[Thread  3] lock released
+[Thread  7] waiting for my number
+[Thread  8] waiting for my number
+[Thread  7] waiting for my number
+[Thread  6] waiting for my number
+[Thread  5] waiting for my number
+[Thread  4] lock acquired
+Removed item 5
+[Thread  4] lock released
+[Thread  9] waiting for my number
+[Thread  8] waiting for my number
+[Thread  7] waiting for my number
+[Thread  8] waiting for my number
+[Thread  6] waiting for my number
+[Thread  5] lock acquired
+Removed item 4
+[Thread  5] lock released
+[Thread  9] waiting for my number
+[Thread  7] waiting for my number
+[Thread  8] waiting for my number
+[Thread  6] lock acquired
+Removed item 3
+[Thread  6] lock released
+[Thread  9] waiting for my number
+[Thread  7] lock acquired
+Removed item 2
+[Thread  7] lock released
+[Thread  8] lock acquired
+Removed item 1
+[Thread  8] lock released
+[Thread  9] lock acquired
+Removed item 0
+[Thread  9] lock released

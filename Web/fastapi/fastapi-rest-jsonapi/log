@@ -1,0 +1,9 @@
+INFO:     127.0.0.1:49502 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49502 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49502 - "GET /users HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49506 - "GET /users HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49520 - "POST /users HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:49526 - "POST /users HTTP/1.1" 201 Created
+INFO:     127.0.0.1:49530 - "GET /users/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49536 - "POST /users HTTP/1.1" 201 Created
+INFO:     127.0.0.1:49540 - "GET /users/11 HTTP/1.1" 200 OK

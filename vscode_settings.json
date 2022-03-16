@@ -1,0 +1,23 @@
+{
+    "workbench.colorTheme": "Solarized Dark",
+    // "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 200,
+    "editor.mouseWheelZoom": true,
+    "editor.fontWeight": "bold",
+    "editor.fontSize": 12,
+    "editor.lineHeight": 1.2,
+    "editor.letterSpacing": 1,
+    "editor.fontFamily": "Quicksand",
+    "workbench.iconTheme": "material-icon-theme",
+    "cmake.configureOnOpen": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.analysis.autoImportCompletions": false,
+    "C_Cpp.updateChannel": "Insiders",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+}
